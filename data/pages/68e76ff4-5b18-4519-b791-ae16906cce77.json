@@ -178,7 +178,28 @@
           "link": "https://itatearevalo.github.io/AustinEnvHist/events/environmental-harmony/"
         },
         {
-          "text": ", the women recount shared memories of their childhoods growing up in Hyde Park and share historical accounts about their family ancestry, property, as well as encounters with Indigenous communities. Through a story of sisterhood, the infrastructural development of Austin begins to be revealed in its relation to the natural environments experienced by the three women. Contrasting with visions of beauty and progress elicited in Norwood's interview, an interview conducted in 2004 with Silvia Herrera examines the changing natural landscape as experienced by East Austinites as a direct result of urbanization and gentrification. Despite neglect from the city, Herrera takes us through the origin and success of PODER, a grassroots social justice organization based in East Austin that she helped to found. Following Herrera, are two interviews from 2002 with Janet Fish, a prominent environmental conservationist of the region, that show an Austin of the past now only experienced by white wealthy residents. In lush descriptions of camping trips and fording rivers, Fish paints a picture of natural beauty that she narrates alongside tales of Comanche and “hillbilly” clashes with Austin residents. "
+          "text": ", the women recount shared memories of their childhoods growing up in Hyde Park and share historical accounts about their family ancestry, property, as well as encounters with Indigenous communities. Through a story of sisterhood, the infrastructural development of Austin begins to be revealed in its relation to the natural environments experienced by the three women. Contrasting with visions of beauty and progress elicited in Norwood's interview, "
+        },
+        {
+          "text": "an interview conducted in 2004 with Sylvia Herrera",
+          "link": "https://itatearevalo.github.io/AustinEnvHist/events/environmental-resistance-in-progress/"
+        },
+        {
+          "text": " examines the changing natural landscape as experienced by East Austinites as a direct result of urbanization and gentrification. Despite neglect from the city, Herrera takes us through the origin and success of PODER, a grassroots social justice organization based in East Austin that she helped to found. Following Herrera, are two interviews from 2002 with "
+        },
+        {
+          "text": "Janet Fish",
+          "link": "https://itatearevalo.github.io/AustinEnvHist/events/memories-of-conflict/"
+        },
+        {
+          "text": ", a prominent environmental conservationist of the region, that show an Austin of the past now only experienced by white wealthy residents. In lush descriptions of camping trips and fording rivers, "
+        },
+        {
+          "text": "Fish paints a picture of natural beauty",
+          "link": "https://itatearevalo.github.io/AustinEnvHist/events/land-changes-resident-impacts/"
+        },
+        {
+          "text": " that she narrates alongside tales of Comanche and “hillbilly” clashes with Austin residents. "
         }
       ]
     },
@@ -194,7 +215,28 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "To shift perspectives we continue with an interview from 1967 with Ben May and other residents of Clarksville, the historical freedmen town, where its origins are brought to light in a story highlighting the heart and soul of this vibrant neighborhood as it has faced challenges of gentrification and ever-advancing infrastructural development. Competing with this frequently overlooked narrative is an interview from 1964 with white residents Robert F. Bacon and Ella Lambert Bacon, that follows major events in Austin’s history such as the Capitol burning and the breaking of a dam. These stories are reimagined to create an image of a past Austin wrought by environmental forces. Continuing with the narrative of a changing Austin we have an interview from 2000 with Rowena Stenis, Tom Stenis, and Llewellyn Smith that shows early relationships to natural environments, one based in beauty and progress. This expands into discussions of land ownership in relation to the Comanche Nation, a tribe of the American Southwest. Ending the series with this interview, we are able to experience the dominant perspective of Austin residents as they look back at their environmental relations."
+          "text": "To shift perspectives we continue with "
+        },
+        {
+          "text": "an interview from 1967 with Ben May and other residents of Clarksville",
+          "link": "https://itatearevalo.github.io/AustinEnvHist/events/clarksville-a-freedmens-community/"
+        },
+        {
+          "text": ", the historical freedmen town, where its origins are brought to light in a story highlighting the heart and soul of this vibrant neighborhood as it has faced challenges of gentrification and ever-advancing infrastructural development. Competing with this frequently overlooked narrative is "
+        },
+        {
+          "text": "an interview from 1964 with white residents Robert F. Bacon and Ella Lambert Bacon,",
+          "link": "https://itatearevalo.github.io/AustinEnvHist/events/reconstructing-austin/"
+        },
+        {
+          "text": " that follows major events in Austin’s history such as the Capitol burning and the breaking of a dam. These stories are reimagined to create an image of a past Austin wrought by environmental forces. Continuing with the narrative of a changing Austin we have "
+        },
+        {
+          "text": "an interview from 2000 with Rowena Stenis, Tom Stenis, and Llewellyn Smith",
+          "link": "https://itatearevalo.github.io/AustinEnvHist/events/traces-of-expansion/"
+        },
+        {
+          "text": " that shows early relationships to natural environments, one based in beauty and progress. This expands into discussions of land ownership in relation to the Comanche Nation, a tribe of the American Southwest. Ending the series with this interview, we are able to experience the dominant perspective of Austin residents as they look back at their environmental relations."
         }
       ]
     },
@@ -253,7 +295,7 @@
         {
           "bold": true,
           "italic": true,
-          "text": ""
+          "text": "----"
         }
       ]
     },
@@ -289,6 +331,6 @@
   "slug": "homepage",
   "created_at": "2026-05-27T14:47:17.485Z",
   "created_by": "itatearevalo",
-  "updated_at": "2026-09-09T19:59:59.268Z",
+  "updated_at": "2026-09-09T20:03:25.126Z",
   "updated_by": "UTEnvironmentalHistories"
 }
