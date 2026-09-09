@@ -171,7 +171,14 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "The historical interviews presented in this series will progress as follows. In an interview from 1967 with Dot Norwood and her childhood friends, the women recount shared memories of their childhoods growing up in Hyde Park and share historical accounts about their family ancestry, property, as well as encounters with Indigenous communities. Through a story of sisterhood, the infrastructural development of Austin begins to be revealed in its relation to the natural environments experienced by the three women. Contrasting with visions of beauty and progress elicited in Norwood's interview, an interview conducted in 2004 with Silvia Herrera examines the changing natural landscape as experienced by East Austinites as a direct result of urbanization and gentrification. Despite neglect from the city, Herrera takes us through the origin and success of PODER, a grassroots social justice organization based in East Austin that she helped to found. Following Herrera, are two interviews from 2002 with Janet Fish, a prominent environmental conservationist of the region, that show an Austin of the past now only experienced by white wealthy residents. In lush descriptions of camping trips and fording rivers, Fish paints a picture of natural beauty that she narrates alongside tales of Comanche and “hillbilly” clashes with Austin residents. "
+          "text": "The historical interviews presented in this series will progress as follows. In "
+        },
+        {
+          "text": "an interview from 1967 with Dot Norwood and her childhood friends",
+          "link": "https://itatearevalo.github.io/AustinEnvHist/events/environmental-harmony/"
+        },
+        {
+          "text": ", the women recount shared memories of their childhoods growing up in Hyde Park and share historical accounts about their family ancestry, property, as well as encounters with Indigenous communities. Through a story of sisterhood, the infrastructural development of Austin begins to be revealed in its relation to the natural environments experienced by the three women. Contrasting with visions of beauty and progress elicited in Norwood's interview, an interview conducted in 2004 with Silvia Herrera examines the changing natural landscape as experienced by East Austinites as a direct result of urbanization and gentrification. Despite neglect from the city, Herrera takes us through the origin and success of PODER, a grassroots social justice organization based in East Austin that she helped to found. Following Herrera, are two interviews from 2002 with Janet Fish, a prominent environmental conservationist of the region, that show an Austin of the past now only experienced by white wealthy residents. In lush descriptions of camping trips and fording rivers, Fish paints a picture of natural beauty that she narrates alongside tales of Comanche and “hillbilly” clashes with Austin residents. "
         }
       ]
     },
@@ -282,6 +289,6 @@
   "slug": "homepage",
   "created_at": "2026-05-27T14:47:17.485Z",
   "created_by": "itatearevalo",
-  "updated_at": "2026-07-25T14:46:42.417Z",
-  "updated_by": "itatearevalo"
+  "updated_at": "2026-09-09T19:59:59.268Z",
+  "updated_by": "UTEnvironmentalHistories"
 }
