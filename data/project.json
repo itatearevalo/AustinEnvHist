@@ -30,7 +30,7 @@
     "language": "en",
     "slug": "AustinEnvHist",
     "creator": "raymondhyser",
-    "authors": "",
+    "authors": "Isabelle Tate-Arevalo",
     "media_player": "avannotate",
     "auto_populate_home_page": true,
     "additional_users": [],
@@ -133,7 +133,7 @@
       ]
     },
     "created_at": "2026-05-17T16:49:46.518Z",
-    "updated_at": "2026-07-25T14:46:42.982Z",
+    "updated_at": "2026-09-09T16:03:09.219Z",
     "generate_pages_site": true
   },
   "annotations": {},
